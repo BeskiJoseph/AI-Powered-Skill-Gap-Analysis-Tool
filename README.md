@@ -1,5 +1,7 @@
 # AI-Powered Skill Gap Analysis Tool
 
+## live: https://resume-to-roadmap-9fw8xzsrx-beskijosephs-projects.vercel.app/
+
 ## Overview
 
 This project is an AI-powered web application that analyzes your resume and job descriptions, identifies skill gaps, and generates a personalized learning roadmap with recommended resources. It is built with modern frontend technologies and is ideal for developers looking to showcase advanced React, TypeScript, and UI/UX skills.
