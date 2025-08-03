@@ -1,6 +1,6 @@
 # AI-Powered Skill Gap Analysis Tool
 
-## live: https://resume-to-roadmap-9fw8xzsrx-beskijosephs-projects.vercel.app/
+## live: https://resume-to-roadmap-180rq51t6-beskijosephs-projects.vercel.app
 
 ## Overview
 
